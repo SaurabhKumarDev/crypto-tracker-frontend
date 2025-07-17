@@ -53,9 +53,9 @@ npm run dev
 
 
 ## 🌐 Deployment Links
-🔗 Frontend: https://your-frontend.vercel.app
+🔗 Frontend: https://frontend-cryptotracker.vercel.app
 
-🔗 Backend: https://your-backend.onrender.com/api
+🔗 Backend: https://crypto-tracker-backend-p3n7.onrender.com/api
 
 
 ## 📞 Contact
