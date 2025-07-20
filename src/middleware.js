@@ -1,8 +1,8 @@
 import { NextResponse } from 'next/server'
 import { jwtVerify } from 'jose'
 
-const AUTH_ROUTES = ['/login', '/register']
-const PROTECTED_ROUTES = ['/']
+const AUTH_ROUTES = ['/login', '/register', '/']
+const PROTECTED_ROUTES = []
 
 const isRouteMatch = (pathname, routeList) =>
   routeList.some(route => pathname === route || pathname.startsWith(route + '/'))
